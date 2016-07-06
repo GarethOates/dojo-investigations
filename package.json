@@ -1,0 +1,31 @@
+{
+  "name": "dojoinvestigation",
+  "version": "1.0.0",
+  "description": "A Dojo investigation package looking into Dojo Build Toolkit and Modules/Layers",
+  "main": "main.js",
+  "dojoBuild": "app.profile.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GarethOates/dojo-investigations.git"
+  },
+  "keywords": [
+    "dojo",
+    "investigation",
+    "dojobuild"
+  ],
+  "author": "Gareth Oates <gareth.oates@iteslearning.com>",
+  "license": "GPLv2",
+  "bugs": {
+    "url": "https://github.com/GarethOates/dojo-investigations/issues"
+  },
+  "homepage": "https://github.com/GarethOates/dojo-investigations#readme",
+
+  "dependencies": {
+    "dojo": "1.11.2",
+    "dijit": "1.11.2",
+    "dojox": "1.11.2"
+  }
+}
